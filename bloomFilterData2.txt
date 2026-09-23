@@ -1,0 +1,30 @@
+c = 5, k = 1:
+false positives for hash1: 18116 false positives for hash2: 18002
+c = 5, k = 2:
+false positives for hash1: 10770 false positives for hash2: 10918
+c = 5, k = 3:
+false positives for hash1: 9095 false positives for hash2: 9320
+c = 5, k = 4:
+false positives for hash1: 9242 false positives for hash2: 9240
+c = 5, k = 5:
+false positives for hash1: 10144 false positives for hash2: 10271
+c = 10, k = 5:
+false positives for hash1: 948 false positives for hash2: 943
+c = 10, k = 6:
+false positives for hash1: 859 false positives for hash2: 863
+c = 10, k = 7:
+false positives for hash1: 776 false positives for hash2: 892
+c = 10, k = 8:
+false positives for hash1: 847 false positives for hash2: 814
+c = 10, k = 9:
+false positives for hash1: 942 false positives for hash2: 926
+c = 15, k = 8:
+false positives for hash1: 90 false positives for hash2: 89
+c = 15, k = 9:
+false positives for hash1: 82 false positives for hash2: 69
+c = 15, k = 10: 
+false positives for hash1: 75 false positives for hash2: 90
+c = 15, k = 11:
+false positives for hash1: 80 false positives for hash2: 64
+c = 15, k = 12:
+false positives for hash1: 75 false positives for hash2: 83
